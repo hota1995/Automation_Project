@@ -1,5 +1,6 @@
 # Automation_Project
-This is an engaging project on Git, Bash Script and AWS EC2
+This is an engaging project on Git, Bash Script and AWS EC2.
+
 The goal of this script is to perform below tasks:
 1. Perform Package update
 2. Install and run Apache if not installed or not Running
